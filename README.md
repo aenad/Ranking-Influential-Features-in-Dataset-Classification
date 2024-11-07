@@ -64,8 +64,5 @@ This project focuses on ranking influential features in dataset classification u
 - `scripts/`: Python scripts for data preprocessing, feature extraction, clustering, and model training.
 - `data/`: Directory for storing the dataset.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 This project was developed as part of a data mining course under the supervision of **Dr. Hossein Rahmani**.
